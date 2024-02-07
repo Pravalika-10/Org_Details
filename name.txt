@@ -1,4 +1,3 @@
 Organization name:Apples
 
 "stash"
-Organization name:Apples
