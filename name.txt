@@ -1,4 +1,3 @@
-HEAD
 Organization name:Apples
 
 "stash"
