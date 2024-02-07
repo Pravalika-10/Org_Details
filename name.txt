@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+HEAD
 Organization name:Apples
 
 "stash"
 =======
 Organization name:Apples
->>>>>>> 8f86c5c (First Commit)
+8f86c5c (First Commit)
